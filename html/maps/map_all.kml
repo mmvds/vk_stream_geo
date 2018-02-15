@@ -1,0 +1,4171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<name>Epidemic</name>
+<Schema name="map" id="map">
+<SimpleField name="value" type="int">
+</SimpleField>
+</Schema>
+<Folder>
+<name>Points</name>
+<Placemark id="1 543">
+<name>1 | Россия Приозерск </name>
+<Point>
+<coordinates>30.1341,61.039,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 5427335">
+<name>1 | Казахстан Калбатау </name>
+<Point>
+<coordinates>81.5648,49.3272,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 5426226">
+<name>1 | Казахстан Акмол </name>
+<Point>
+<coordinates>71.4704,51.1605,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3437">
+<name>1 | Россия Ленск </name>
+<Point>
+<coordinates>114.902,60.7214,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3462">
+<name>1 | Россия Афипский </name>
+<Point>
+<coordinates>38.8433,44.906,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1110758">
+<name>1 | Россия Кыйлуд </name>
+<Point>
+<coordinates>52.4528,56.8669,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 5413">
+<name>1 | Россия Аша </name>
+<Point>
+<coordinates>57.2734,54.9891,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 353">
+<name>1 | Россия Боровичи </name>
+<Point>
+<coordinates>33.9068,58.3926,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1110914">
+<name>1 | Россия Ежево </name>
+<Point>
+<coordinates>52.2261,58.0289,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 360">
+<name>1 | Россия Ишимбай </name>
+<Point>
+<coordinates>56.0508,53.4264,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3606">
+<name>1 | Россия Мензелинск </name>
+<Point>
+<coordinates>53.1066,55.726,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 361">
+<name>1 | Казахстан Семей </name>
+<Point>
+<coordinates>80.2508,50.4233,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3621">
+<name>1 | Россия Мирный </name>
+<Point>
+<coordinates>113.977,62.5313,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3644">
+<name>1 | Россия Няндома </name>
+<Point>
+<coordinates>40.202,61.6614,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 365">
+<name>1 | Россия Гусь-Хрустальный </name>
+<Point>
+<coordinates>40.6564,55.6063,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3681">
+<name>1 | Россия Зеленокумск </name>
+<Point>
+<coordinates>43.8736,44.4141,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 3687">
+<name>1 | Беларусь Щучин </name>
+<Point>
+<coordinates>24.7419,53.6041,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 536">
+<name>1 | Казахстан Павлодар </name>
+<Point>
+<coordinates>76.9674,52.2873,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 5331435">
+<name>1 | Россия Советский </name>
+<Point>
+<coordinates>63.5639,61.3603,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 373">
+<name>1 | Россия Конаково </name>
+<Point>
+<coordinates>36.7733,56.6965,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="15 374">
+<name>1 | Молдова Тирасполь </name>
+<Point>
+<coordinates>29.5968,46.8482,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 3740">
+<name>1 | Украина Калуш </name>
+<Point>
+<coordinates>24.395,49.0414,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3756">
+<name>1 | Россия Хвалынск </name>
+<Point>
+<coordinates>48.0923,52.501,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="209 5307446">
+<name>1 | Франция Villetaneuse </name>
+<Point>
+<coordinates>2.34735,48.9635,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="65 5267808">
+<name>1 | Германия Wiesbaden </name>
+<Point>
+<coordinates>8.23976,50.0782,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3798">
+<name>1 | Россия Токсово </name>
+<Point>
+<coordinates>30.5307,60.1554,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="65 5261745">
+<name>1 | Германия Aachen </name>
+<Point>
+<coordinates>6.08389,50.7753,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="209 5225806">
+<name>1 | Франция Sausheim </name>
+<Point>
+<coordinates>7.37004,47.7894,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3820">
+<name>1 | Россия Жигулевск </name>
+<Point>
+<coordinates>49.4723,53.3907,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 5103">
+<name>1 | Россия Чистополь </name>
+<Point>
+<coordinates>50.6339,55.3618,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="229 3838300">
+<name>1 | Япония Kanoya </name>
+<Point>
+<coordinates>130.852,31.3783,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3880">
+<name>1 | Россия Кинешма </name>
+<Point>
+<coordinates>42.116,57.4426,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 5099">
+<name>1 | Россия Советск </name>
+<Point>
+<coordinates>21.8787,55.0789,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3910">
+<name>1 | Россия Звенигород </name>
+<Point>
+<coordinates>36.8552,55.7314,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 501">
+<name>1 | Россия Сарапул </name>
+<Point>
+<coordinates>53.7742,56.4539,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3992">
+<name>1 | Россия Губаха </name>
+<Point>
+<coordinates>57.5544,58.8389,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1113989">
+<name>1 | Россия Алатырь </name>
+<Point>
+<coordinates>46.5819,54.8383,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 9196">
+<name>1 | Россия Октябрьский </name>
+<Point>
+<coordinates>53.4895,54.4772,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="9 4944252">
+<name>1 | США Oregon </name>
+<Point>
+<coordinates>-120.554,43.8041,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 4931">
+<name>1 | Россия Красавино </name>
+<Point>
+<coordinates>46.481,60.959,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="174 4906088">
+<name>1 | Северные Марианские острова Saipan </name>
+<Point>
+<coordinates>145.73,15.1515,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 4295">
+<name>1 | Россия Мосальск </name>
+<Point>
+<coordinates>34.9799,54.4911,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 431">
+<name>1 | Россия Саров </name>
+<Point>
+<coordinates>43.3252,54.9343,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="65 4329262">
+<name>1 | Германия Steinfeld (Oldenburg) </name>
+<Point>
+<coordinates>8.20917,52.5871,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 438">
+<name>1 | Украина Ужгород </name>
+<Point>
+<coordinates>22.2879,48.6208,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 44">
+<name>1 | Россия Геленджик </name>
+<Point>
+<coordinates>38.0242,44.5919,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 4890">
+<name>1 | Россия Одинцово </name>
+<Point>
+<coordinates>37.2819,55.6734,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1122652">
+<name>1 | Россия Черемное с/з </name>
+<Point>
+<coordinates>83.2141,53.1697,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="87 4518285">
+<name>1 | Испания Manresa </name>
+<Point>
+<coordinates>1.82208,41.7164,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 4529">
+<name>1 | Россия Рассказово </name>
+<Point>
+<coordinates>41.8815,52.6587,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 4873">
+<name>1 | Россия Шаховская </name>
+<Point>
+<coordinates>35.5182,56.0294,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1125634">
+<name>1 | Россия Таланово </name>
+<Point>
+<coordinates>41.043,55.261,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 4838">
+<name>1 | Россия Катайск </name>
+<Point>
+<coordinates>62.5774,56.2897,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 459">
+<name>1 | Россия Реутов </name>
+<Point>
+<coordinates>37.8613,55.7618,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 4597">
+<name>1 | Россия Макаров </name>
+<Point>
+<coordinates>142.778,48.6272,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 460">
+<name>1 | Россия Вышний Волочек </name>
+<Point>
+<coordinates>34.5643,57.5836,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 462">
+<name>1 | Россия Сатка </name>
+<Point>
+<coordinates>59.0083,55.0467,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="228 4661215">
+<name>1 | Ямайка Jamaica </name>
+<Point>
+<coordinates>-77.2975,18.1096,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="75 4662553">
+<name>1 | Доминиканская Республика Santiago de los Caballeros </name>
+<Point>
+<coordinates>-70.6931,19.4792,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 4834">
+<name>1 | Россия Кольчугино </name>
+<Point>
+<coordinates>39.3701,56.2984,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1129329">
+<name>1 | Россия Краснобродский  </name>
+<Point>
+<coordinates>86.4453,54.1578,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 4688">
+<name>1 | Украина Боярка </name>
+<Point>
+<coordinates>30.2982,50.3171,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 4712">
+<name>1 | Россия Батайск </name>
+<Point>
+<coordinates>39.7378,47.1398,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 472">
+<name>1 | Россия Костомукша </name>
+<Point>
+<coordinates>30.6115,64.595,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="102 4721119">
+<name>1 | Коста-Рика Hacienda Tamarindo </name>
+<Point>
+<coordinates>-85.2604,10.4257,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="98 4756584">
+<name>1 | Колумбия Cúcuta </name>
+<Point>
+<coordinates>-72.4967,7.8891,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 4757">
+<name>1 | Россия Павловский Посад </name>
+<Point>
+<coordinates>38.6533,55.7758,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 476">
+<name>1 | Россия Димитровград </name>
+<Point>
+<coordinates>49.5685,54.227,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1129921">
+<name>1 | Россия Тисуль </name>
+<Point>
+<coordinates>88.3102,55.7629,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 479">
+<name>1 | Россия Кузнецк </name>
+<Point>
+<coordinates>46.5846,53.1184,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 4797">
+<name>1 | Россия Богданович </name>
+<Point>
+<coordinates>62.0523,56.7743,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 4798">
+<name>1 | Беларусь Новолукомль </name>
+<Point>
+<coordinates>29.151,54.6576,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 483">
+<name>1 | Россия Красногорск </name>
+<Point>
+<coordinates>37.3263,55.8263,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 9815">
+<name>1 | Россия Ставрово </name>
+<Point>
+<coordinates>40.0147,56.1304,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1130025">
+<name>1 | Россия Тяжин </name>
+<Point>
+<coordinates>88.5014,56.1219,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 11320">
+<name>1 | Россия Нурлат </name>
+<Point>
+<coordinates>50.8189,54.4192,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 102">
+<name>1 | Россия Норильск </name>
+<Point>
+<coordinates>88.1893,69.3558,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1134837">
+<name>1 | Россия Стерлитамак </name>
+<Point>
+<coordinates>55.9439,53.6554,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 10205">
+<name>1 | Россия Октябрьск </name>
+<Point>
+<coordinates>48.769,53.1835,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1135352">
+<name>1 | Россия Емельяново </name>
+<Point>
+<coordinates>92.4814,56.1768,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1136743">
+<name>1 | Россия Кононово </name>
+<Point>
+<coordinates>93.7176,56.5075,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1137147">
+<name>1 | Россия Альменево </name>
+<Point>
+<coordinates>63.561,54.9415,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1137256">
+<name>1 | Россия Барнаул </name>
+<Point>
+<coordinates>83.7698,53.3548,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1139062">
+<name>1 | Россия Бор </name>
+<Point>
+<coordinates>44.0767,56.3588,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 9178">
+<name>1 | Беларусь Чечерск </name>
+<Point>
+<coordinates>30.9163,52.9186,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1141697">
+<name>1 | Россия Павлово </name>
+<Point>
+<coordinates>43.0819,55.9545,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1142728">
+<name>1 | Россия Простоквашино </name>
+<Point>
+<coordinates>46.5741,57.4257,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 10307">
+<name>1 | Россия Диксон </name>
+<Point>
+<coordinates>80.5809,73.5049,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1148576">
+<name>1 | Россия Березники </name>
+<Point>
+<coordinates>56.7849,59.4132,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1149524">
+<name>1 | Россия Карагай </name>
+<Point>
+<coordinates>54.9327,58.2632,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1000769">
+<name>1 | Россия Согра </name>
+<Point>
+<coordinates>74.2396,55.7119,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1153557">
+<name>1 | Россия Табага </name>
+<Point>
+<coordinates>130.95,61.6667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1032359">
+<name>1 | Россия Ермолино </name>
+<Point>
+<coordinates>36.596,55.196,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1156182">
+<name>1 | Россия Тугулым </name>
+<Point>
+<coordinates>64.6283,57.0563,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1157867">
+<name>1 | Россия Казанское </name>
+<Point>
+<coordinates>49.0661,55.8304,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 10036">
+<name>1 | Россия Елань </name>
+<Point>
+<coordinates>43.7396,50.9527,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1159316">
+<name>1 | Россия Де-Кастри </name>
+<Point>
+<coordinates>140.769,51.4751,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1159459">
+<name>1 | Россия Бельтирское </name>
+<Point>
+<coordinates>90.4042,53.0291,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 116">
+<name>1 | Россия Пятигорск </name>
+<Point>
+<coordinates>43.0396,44.0499,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1160438">
+<name>1 | Россия Тут-Халтуй </name>
+<Point>
+<coordinates>114.174,50.4514,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1161149">
+<name>1 | Россия Красково </name>
+<Point>
+<coordinates>37.983,55.6577,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1161402">
+<name>1 | Украина Николаевка </name>
+<Point>
+<coordinates>37.7712,48.853,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 117">
+<name>1 | Россия Раменское </name>
+<Point>
+<coordinates>38.2213,55.5686,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1171">
+<name>1 | Россия Окуловка </name>
+<Point>
+<coordinates>33.291,58.3995,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 11820">
+<name>1 | Казахстан Щучинск </name>
+<Point>
+<coordinates>70.1885,52.9352,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 9115">
+<name>1 | Россия Анжеро-Судженск </name>
+<Point>
+<coordinates>85.9955,56.0955,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 120">
+<name>1 | Россия Рузаевка </name>
+<Point>
+<coordinates>44.942,54.0623,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 12065">
+<name>1 | Россия Куртамыш </name>
+<Point>
+<coordinates>64.4416,54.9151,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 91">
+<name>1 | Россия Находка </name>
+<Point>
+<coordinates>132.883,42.8223,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 12126">
+<name>1 | Россия Коркино </name>
+<Point>
+<coordinates>61.368,54.901,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 891">
+<name>1 | Россия Сортавала </name>
+<Point>
+<coordinates>30.6879,61.7045,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1004866">
+<name>1 | Россия Башкортостан </name>
+<Point>
+<coordinates>56.1645,54.2312,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 89">
+<name>1 | Россия Назрань </name>
+<Point>
+<coordinates>44.7764,43.2149,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 1238">
+<name>1 | Казахстан Жезказган </name>
+<Point>
+<coordinates>67.702,47.7964,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 882">
+<name>1 | Россия Ачинск </name>
+<Point>
+<coordinates>90.4903,56.2361,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1245">
+<name>1 | Россия Кумертау </name>
+<Point>
+<coordinates>55.8116,52.7637,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 881">
+<name>1 | Россия Радужный </name>
+<Point>
+<coordinates>77.4754,62.1039,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1268">
+<name>1 | Россия Южноуральск </name>
+<Point>
+<coordinates>61.2606,54.4421,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 12680">
+<name>1 | Россия Наволоки </name>
+<Point>
+<coordinates>41.9634,57.4668,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1036667">
+<name>1 | Россия Ижма </name>
+<Point>
+<coordinates>53.9197,65.007,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1284">
+<name>1 | Россия Суздаль </name>
+<Point>
+<coordinates>40.4536,56.4192,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 12864">
+<name>1 | Россия Липки </name>
+<Point>
+<coordinates>37.7002,53.9455,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 129">
+<name>1 | Россия Славянск-на-Кубани </name>
+<Point>
+<coordinates>38.1403,45.2456,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 12923">
+<name>1 | Россия Сокол </name>
+<Point>
+<coordinates>40.1197,59.4629,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 8717">
+<name>1 | Украина Хуст </name>
+<Point>
+<coordinates>23.2972,48.1735,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 12987">
+<name>1 | Беларусь Копыль </name>
+<Point>
+<coordinates>27.0908,53.1511,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 86">
+<name>1 | Россия Мичуринск </name>
+<Point>
+<coordinates>40.4981,52.893,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1300">
+<name>1 | Россия Старая Купавна </name>
+<Point>
+<coordinates>38.1785,55.8065,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 131">
+<name>1 | Россия Снежинск </name>
+<Point>
+<coordinates>60.7544,56.0572,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="19 980">
+<name>1 | Австралия Melbourne </name>
+<Point>
+<coordinates>144.963,-37.8136,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1315">
+<name>1 | Украина Мелитополь </name>
+<Point>
+<coordinates>35.3587,46.855,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1041257">
+<name>1 | Россия Молдованский </name>
+<Point>
+<coordinates>135.09,48.4623,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 13161">
+<name>1 | Россия Красноармейск </name>
+<Point>
+<coordinates>38.1392,56.1061,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1041629">
+<name>1 | Россия Баракаевская </name>
+<Point>
+<coordinates>40.5258,44.2926,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 8556">
+<name>1 | Россия Красноборск </name>
+<Point>
+<coordinates>45.9456,61.5467,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 8528">
+<name>1 | Россия Новоаннинский </name>
+<Point>
+<coordinates>42.6646,50.5255,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="160 8505">
+<name>1 | Польша Bydgoszcz </name>
+<Point>
+<coordinates>18.0084,53.1235,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1355">
+<name>1 | Россия Верхняя Пышма </name>
+<Point>
+<coordinates>60.5864,56.9665,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 8488">
+<name>1 | Украина Покровск / Красноармейск </name>
+<Point>
+<coordinates>37.1848,48.2822,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 13623">
+<name>1 | Россия Тевриз </name>
+<Point>
+<coordinates>72.4008,57.5127,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 13684">
+<name>1 | Беларусь Уречье </name>
+<Point>
+<coordinates>27.8819,52.9521,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 13699">
+<name>1 | Украина Коцюбинское </name>
+<Point>
+<coordinates>30.3331,50.4884,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 848">
+<name>1 | Россия Шатура </name>
+<Point>
+<coordinates>39.5301,55.576,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 13832">
+<name>1 | Россия Таксимо </name>
+<Point>
+<coordinates>114.988,56.3396,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1041843">
+<name>1 | Россия Старолеушковская </name>
+<Point>
+<coordinates>39.7586,45.9844,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1046">
+<name>1 | Россия Стрежевой </name>
+<Point>
+<coordinates>77.5814,60.7241,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1389">
+<name>1 | Россия Лянтор </name>
+<Point>
+<coordinates>72.1645,61.6213,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 13899">
+<name>1 | Казахстан Державинск </name>
+<Point>
+<coordinates>66.3165,51.0981,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="142 8478">
+<name>1 | Новая Зеландия Christchurch </name>
+<Point>
+<coordinates>172.636,-43.5321,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 13927">
+<name>1 | Украина Старобельск </name>
+<Point>
+<coordinates>38.9255,49.2737,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 846">
+<name>1 | Россия Кемь </name>
+<Point>
+<coordinates>34.5927,64.951,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 8447">
+<name>1 | Украина Красноград </name>
+<Point>
+<coordinates>35.4614,49.3731,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 8162">
+<name>1 | Россия Лобня </name>
+<Point>
+<coordinates>37.4853,56.0172,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 14210">
+<name>1 | Россия Давлеканово </name>
+<Point>
+<coordinates>55.0291,54.2162,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 807">
+<name>1 | Россия Муром </name>
+<Point>
+<coordinates>42.0166,55.5674,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1048255">
+<name>1 | Россия Сосновый Бор </name>
+<Point>
+<coordinates>29.0856,59.8697,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 14380">
+<name>1 | Беларусь Ивацевичи </name>
+<Point>
+<coordinates>25.3347,52.7086,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1439">
+<name>1 | Россия д/о Щелково </name>
+<Point>
+<coordinates>38.0369,55.917,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 8064">
+<name>1 | Украина Мирноград / Димитров </name>
+<Point>
+<coordinates>37.27,48.2962,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1449">
+<name>1 | Россия Буденновск </name>
+<Point>
+<coordinates>44.1536,44.7925,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 14537">
+<name>1 | Россия Саракташ </name>
+<Point>
+<coordinates>56.3554,51.7863,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 14579">
+<name>1 | Украина Радомышль </name>
+<Point>
+<coordinates>29.2337,50.4965,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 799">
+<name>1 | Россия Евпатория </name>
+<Point>
+<coordinates>33.3362,45.1825,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1461">
+<name>1 | Россия Паша </name>
+<Point>
+<coordinates>33.0114,60.3884,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1048397">
+<name>1 | Россия Самара </name>
+<Point>
+<coordinates>50.2212,53.2415,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 784">
+<name>1 | Украина Первомайск </name>
+<Point>
+<coordinates>30.8884,48.0451,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 777">
+<name>1 | Россия  </name>
+<Point>
+<coordinates>105.319,61.524,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 14715">
+<name>1 | Россия Воскресенское </name>
+<Point>
+<coordinates>45.4287,56.8392,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 7747">
+<name>1 | Казахстан Жанаозен </name>
+<Point>
+<coordinates>52.8435,43.3576,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1483">
+<name>1 | Россия Феодосия </name>
+<Point>
+<coordinates>35.3824,45.0319,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1489">
+<name>1 | Россия Новокуйбышевск </name>
+<Point>
+<coordinates>49.8913,53.0961,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 7553">
+<name>1 | Россия Малгобек </name>
+<Point>
+<coordinates>44.5835,43.5054,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 7458">
+<name>1 | Россия Михайловка </name>
+<Point>
+<coordinates>43.2284,50.0648,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 150">
+<name>1 | Россия Уссурийск </name>
+<Point>
+<coordinates>131.951,43.7971,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1500038">
+<name>1 | Украина Нововасильевка </name>
+<Point>
+<coordinates>35.7512,46.8312,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1502763">
+<name>1 | Украина Новолуганское </name>
+<Point>
+<coordinates>38.1719,48.423,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1504169">
+<name>1 | Украина Виноградов </name>
+<Point>
+<coordinates>23.0302,48.1464,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 15043">
+<name>1 | Россия Пойковский </name>
+<Point>
+<coordinates>71.9004,60.9936,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 1506">
+<name>1 | Беларусь Жлобин </name>
+<Point>
+<coordinates>30.0282,52.8889,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1506595">
+<name>1 | Украина Надлак </name>
+<Point>
+<coordinates>31.1361,48.7289,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1507006">
+<name>1 | Украина Счастье </name>
+<Point>
+<coordinates>39.2312,48.7372,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1507196">
+<name>1 | Украина Рубежное </name>
+<Point>
+<coordinates>38.3751,49.0161,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1507922">
+<name>1 | Украина Черкассы </name>
+<Point>
+<coordinates>32.0598,49.4444,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1508698">
+<name>1 | Украина Софиевка </name>
+<Point>
+<coordinates>30.235,48.7614,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 15089">
+<name>1 | Украина Довбыш </name>
+<Point>
+<coordinates>27.9864,50.3749,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1509">
+<name>1 | Украина Бровары </name>
+<Point>
+<coordinates>30.7909,50.5111,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 744">
+<name>1 | Россия Углич </name>
+<Point>
+<coordinates>38.3308,57.5248,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1510751">
+<name>1 | Украина Рокитное </name>
+<Point>
+<coordinates>27.2019,51.2875,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1513951">
+<name>1 | Украина Хлистуновка </name>
+<Point>
+<coordinates>31.4455,49.2163,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1515584">
+<name>1 | Россия Нижнегорский </name>
+<Point>
+<coordinates>51.1588,53.3557,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1515589">
+<name>1 | Украина Новгород-Северский </name>
+<Point>
+<coordinates>33.2644,51.9969,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="160 1515655">
+<name>1 | Польша Wrocław </name>
+<Point>
+<coordinates>17.0385,51.1079,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 735">
+<name>1 | Россия Светлоград </name>
+<Point>
+<coordinates>42.8637,45.3302,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 9761">
+<name>1 | Россия Татарск </name>
+<Point>
+<coordinates>75.9685,55.1937,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1051084">
+<name>1 | Россия Аксарка </name>
+<Point>
+<coordinates>67.7878,66.5583,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="88 1516713">
+<name>1 | Италия Modena </name>
+<Point>
+<coordinates>10.9252,44.6471,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 1517642">
+<name>1 | Казахстан Кызылорда  </name>
+<Point>
+<coordinates>65.4823,44.8488,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 7349">
+<name>1 | Россия Березник </name>
+<Point>
+<coordinates>42.7336,62.846,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1052057">
+<name>1 | Россия Баево </name>
+<Point>
+<coordinates>80.7652,53.2655,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 152">
+<name>1 | Россия Ухта </name>
+<Point>
+<coordinates>53.7472,63.5673,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 15247">
+<name>1 | Россия Арти </name>
+<Point>
+<coordinates>58.5331,56.4251,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 15250">
+<name>1 | Россия Верховажье </name>
+<Point>
+<coordinates>42.0399,60.742,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1526">
+<name>1 | Россия Луховицы </name>
+<Point>
+<coordinates>39.028,54.9402,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 726">
+<name>1 | Россия Беломорск </name>
+<Point>
+<coordinates>34.7711,64.5281,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1536">
+<name>1 | Россия Покачи </name>
+<Point>
+<coordinates>75.3654,61.7251,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 154">
+<name>1 | Россия Ханты-Мансийск </name>
+<Point>
+<coordinates>69.0375,61.0091,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1545">
+<name>1 | Россия Ефремов </name>
+<Point>
+<coordinates>38.0937,53.1494,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1559">
+<name>1 | Украина Тернополь </name>
+<Point>
+<coordinates>25.5948,49.5535,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 722">
+<name>1 | Россия Ногинск </name>
+<Point>
+<coordinates>38.4667,55.8761,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 712">
+<name>1 | Беларусь Рогачев </name>
+<Point>
+<coordinates>30.0504,53.0919,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 709">
+<name>1 | Россия Климовск </name>
+<Point>
+<coordinates>37.521,55.3591,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 15714">
+<name>1 | Россия Урай </name>
+<Point>
+<coordinates>64.8066,60.1254,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1573">
+<name>1 | Россия Каменск-Уральский </name>
+<Point>
+<coordinates>61.9223,56.4253,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 15765">
+<name>1 | Украина Новоайдар </name>
+<Point>
+<coordinates>39.0019,48.9662,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 15769">
+<name>1 | Россия Муравленко </name>
+<Point>
+<coordinates>74.5257,63.7935,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 7014">
+<name>1 | Россия Константиново </name>
+<Point>
+<coordinates>39.6019,54.8615,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="8 6963">
+<name>1 | Израиль Беэр Шева </name>
+<Point>
+<coordinates>34.7915,31.253,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 159">
+<name>1 | Россия Черкесск </name>
+<Point>
+<coordinates>42.0592,44.2274,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1597">
+<name>1 | Россия Советский </name>
+<Point>
+<coordinates>63.5639,61.3603,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 695">
+<name>1 | Россия Холмск </name>
+<Point>
+<coordinates>142.058,47.0657,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 1600557">
+<name>1 | Беларусь Хоромск </name>
+<Point>
+<coordinates>27.1055,52.0237,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 1601670">
+<name>1 | Беларусь Василевичи </name>
+<Point>
+<coordinates>29.8315,52.2444,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 1603082">
+<name>1 | Беларусь Павловичи </name>
+<Point>
+<coordinates>29.5471,53.1748,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="160 6949">
+<name>1 | Польша Lublin </name>
+<Point>
+<coordinates>22.5684,51.2465,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1611">
+<name>1 | Россия Тутаев </name>
+<Point>
+<coordinates>39.5333,57.8676,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 16540">
+<name>1 | Россия Нолинск </name>
+<Point>
+<coordinates>49.944,57.5622,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 1006">
+<name>1 | Казахстан Актау </name>
+<Point>
+<coordinates>51.1985,43.6411,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1055616">
+<name>1 | Россия Коломна-1 </name>
+<Point>
+<coordinates>38.728,55.1044,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1678">
+<name>1 | Россия Губкинский </name>
+<Point>
+<coordinates>76.4743,64.4445,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 6923">
+<name>1 | Россия Выкса </name>
+<Point>
+<coordinates>42.1702,55.3262,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 6911">
+<name>1 | Россия Жирновск </name>
+<Point>
+<coordinates>44.7853,50.9745,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 16900">
+<name>1 | Россия Ветлуга </name>
+<Point>
+<coordinates>45.7774,57.8567,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="6 1697">
+<name>1 | Армения Гюмри </name>
+<Point>
+<coordinates>43.8465,40.7929,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 9868">
+<name>1 | Беларусь Городок </name>
+<Point>
+<coordinates>29.9874,55.4619,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 1700242">
+<name>1 | Казахстан Коргалжын </name>
+<Point>
+<coordinates>70.0203,50.5911,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 1700751">
+<name>1 | Казахстан Жандосова </name>
+<Point>
+<coordinates>76.8772,43.2182,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 1701249">
+<name>1 | Казахстан Сатпаев </name>
+<Point>
+<coordinates>67.5461,47.9011,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="8 1706044">
+<name>1 | Израиль Ашдод </name>
+<Point>
+<coordinates>34.6553,31.8044,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 9685">
+<name>1 | Россия Сретенск </name>
+<Point>
+<coordinates>117.701,52.2512,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="182 1707102">
+<name>1 | Сингапур Singapore </name>
+<Point>
+<coordinates>103.82,1.35208,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="6 1708139">
+<name>1 | Армения Армавир </name>
+<Point>
+<coordinates>44.0388,40.1556,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="9 1708303">
+<name>1 | США Philadelphia </name>
+<Point>
+<coordinates>-75.1652,39.9526,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="88 1708354">
+<name>1 | Италия Siracusa </name>
+<Point>
+<coordinates>15.2866,37.0755,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="15 1708371">
+<name>1 | Молдова Хынчешты </name>
+<Point>
+<coordinates>28.5851,46.8281,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="170 1708618">
+<name>1 | Саудовская Аравия Riyadh </name>
+<Point>
+<coordinates>46.6753,24.7136,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="43 1710182">
+<name>1 | Бразилия Rio de Janeiro </name>
+<Point>
+<coordinates>-43.1729,-22.9068,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="13 1710302">
+<name>1 | Литва Kaunas </name>
+<Point>
+<coordinates>23.9036,54.8985,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1057413">
+<name>1 | Россия Давыдово (Давыдовский с/о) </name>
+<Point>
+<coordinates>38.8741,55.6033,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1711">
+<name>1 | Украина Умань </name>
+<Point>
+<coordinates>30.2154,48.7699,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="9 1711047">
+<name>1 | США Seattle </name>
+<Point>
+<coordinates>-122.332,47.6062,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 9568">
+<name>1 | Украина Городня </name>
+<Point>
+<coordinates>31.5959,51.8911,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1060">
+<name>1 | Россия Сосногорск </name>
+<Point>
+<coordinates>53.9069,63.5932,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="65 691">
+<name>1 | Германия Essen </name>
+<Point>
+<coordinates>7.01156,51.4556,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="12 1713629">
+<name>1 | Латвия Daugavpils </name>
+<Point>
+<coordinates>26.5362,55.8747,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 172">
+<name>1 | Россия Североморск </name>
+<Point>
+<coordinates>33.4093,69.0655,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1722">
+<name>1 | Россия Ирбит </name>
+<Point>
+<coordinates>63.0632,57.668,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 688">
+<name>1 | Россия Сольцы </name>
+<Point>
+<coordinates>30.3077,58.1186,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 175">
+<name>1 | Россия Апатиты </name>
+<Point>
+<coordinates>33.3904,67.5778,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1763">
+<name>1 | Россия Камень-Рыболов </name>
+<Point>
+<coordinates>132.037,44.7279,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="152 17668">
+<name>1 | Пакистан Faisalābād </name>
+<Point>
+<coordinates>73.0791,31.4187,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1012699">
+<name>1 | Россия Белгород </name>
+<Point>
+<coordinates>36.5983,50.5997,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 6822">
+<name>1 | Украина Константиновка </name>
+<Point>
+<coordinates>37.7076,48.5239,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1780">
+<name>1 | Россия Верхняя Салда </name>
+<Point>
+<coordinates>60.5592,58.0411,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1781">
+<name>1 | Россия Кулебаки </name>
+<Point>
+<coordinates>42.5234,55.4204,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1790">
+<name>1 | Россия Чернянка </name>
+<Point>
+<coordinates>37.8208,50.934,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1061862">
+<name>1 | Россия Репищи </name>
+<Point>
+<coordinates>36.7759,58.2438,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="129 1801744">
+<name>1 | Монако Monaco </name>
+<Point>
+<coordinates>7.42259,43.7308,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1062">
+<name>1 | Россия Гаджиево </name>
+<Point>
+<coordinates>33.3202,69.252,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1809">
+<name>1 | Россия Ленинск-Кузнецкий </name>
+<Point>
+<coordinates>86.1735,54.6699,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 67">
+<name>1 | Россия Кисловодск </name>
+<Point>
+<coordinates>42.7281,43.9056,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 668">
+<name>1 | Россия Серов </name>
+<Point>
+<coordinates>60.6177,59.6105,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 18382">
+<name>1 | Казахстан Житикара </name>
+<Point>
+<coordinates>61.2783,52.2117,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 665">
+<name>1 | Украина Конотоп </name>
+<Point>
+<coordinates>33.2051,51.2409,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="6 10138">
+<name>1 | Армения Гавар </name>
+<Point>
+<coordinates>45.1273,40.3513,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 187">
+<name>1 | Россия Мончегорск </name>
+<Point>
+<coordinates>32.892,67.9431,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1890">
+<name>1 | Россия Яхрома </name>
+<Point>
+<coordinates>37.4761,56.2915,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 6612">
+<name>1 | Россия Николаевск </name>
+<Point>
+<coordinates>45.4589,50.0297,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 190">
+<name>1 | Россия Воркута </name>
+<Point>
+<coordinates>64.0602,67.4969,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 65">
+<name>1 | Россия Кинель </name>
+<Point>
+<coordinates>50.6169,53.2316,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="229 1905639">
+<name>1 | Япония Kawasaki </name>
+<Point>
+<coordinates>139.702,35.5298,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="50 1905655">
+<name>1 | Венгрия Budapest </name>
+<Point>
+<coordinates>19.0402,47.4979,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="205 1906979">
+<name>1 | Фиджи Suva </name>
+<Point>
+<coordinates>178.45,-18.1248,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="115 1908479">
+<name>1 | Мадагаскар Antananarivo </name>
+<Point>
+<coordinates>47.5079,-18.8792,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1065554">
+<name>1 | Россия Большая Чернава </name>
+<Point>
+<coordinates>37.6927,52.7185,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 6492">
+<name>1 | Россия Балезино </name>
+<Point>
+<coordinates>53.0049,57.9701,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="10 1914789">
+<name>1 | Канада Montréal </name>
+<Point>
+<coordinates>-73.5673,45.5017,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="23 1915914">
+<name>1 | Американское Самоа Pago Pago </name>
+<Point>
+<coordinates>-170.702,-14.2756,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="144 1916627">
+<name>1 | Норвегия Lillehammer </name>
+<Point>
+<coordinates>10.4662,61.1153,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="104 1917808">
+<name>1 | Куба Habana </name>
+<Point>
+<coordinates>-82.3666,23.1136,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="192 1920306">
+<name>1 | Тайвань Taipei </name>
+<Point>
+<coordinates>121.565,25.033,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="160 1922897">
+<name>1 | Польша Warszawa </name>
+<Point>
+<coordinates>21.0122,52.2297,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 6462">
+<name>1 | Россия Дутово </name>
+<Point>
+<coordinates>56.6885,63.7978,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="160 1928178">
+<name>1 | Польша Sochaczew </name>
+<Point>
+<coordinates>20.2384,52.2293,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1929">
+<name>1 | Россия Верхнеднепровский </name>
+<Point>
+<coordinates>33.3418,54.984,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 640">
+<name>1 | Россия Старая Русса </name>
+<Point>
+<coordinates>31.3548,57.9895,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1066302">
+<name>1 | Россия Обновленная Земля </name>
+<Point>
+<coordinates>37.4788,52.8337,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 6303">
+<name>1 | Россия Каневская </name>
+<Point>
+<coordinates>38.9732,46.0703,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 9546">
+<name>1 | Украина Коростень </name>
+<Point>
+<coordinates>28.6458,50.9532,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1070171">
+<name>1 | Россия Плесна </name>
+<Point>
+<coordinates>28.3022,58.7696,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="104 1938273">
+<name>1 | Куба Santiago de Cuba </name>
+<Point>
+<coordinates>-75.8302,20.0169,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1075">
+<name>1 | Россия Избербаш </name>
+<Point>
+<coordinates>47.8754,42.5685,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="181 1950030">
+<name>1 | Сербия Beograd </name>
+<Point>
+<coordinates>20.4489,44.7866,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="65 1951986">
+<name>1 | Германия München </name>
+<Point>
+<coordinates>11.582,48.1351,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="200 1953016">
+<name>1 | Турция Ankara </name>
+<Point>
+<coordinates>32.8597,39.9334,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="88 1955477">
+<name>1 | Италия Milano </name>
+<Point>
+<coordinates>9.18998,45.4642,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1956481">
+<name>1 | Украина Припять </name>
+<Point>
+<coordinates>30.0542,51.4045,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="5 1957236">
+<name>1 | Азербайджан Баку </name>
+<Point>
+<coordinates>49.8671,40.4093,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="10 1960291">
+<name>1 | Канада Vancouver </name>
+<Point>
+<coordinates>-123.121,49.2827,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 1961">
+<name>1 | Казахстан Талдыкорган </name>
+<Point>
+<coordinates>78.3804,45.0177,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1962">
+<name>1 | Россия Краснокаменск </name>
+<Point>
+<coordinates>118.036,50.0966,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="97 1964269">
+<name>1 | Китай Hong Kong </name>
+<Point>
+<coordinates>114.109,22.3964,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="7 1965294">
+<name>1 | Грузия Тбилиси </name>
+<Point>
+<coordinates>44.8271,41.7151,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 197">
+<name>1 | Россия Всеволожск </name>
+<Point>
+<coordinates>30.6606,60.0099,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 19891">
+<name>1 | Россия Солдато-Александровское </name>
+<Point>
+<coordinates>43.763,44.2634,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 199">
+<name>1 | Россия Волхов </name>
+<Point>
+<coordinates>32.3523,59.9118,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="139 19937">
+<name>1 | Нидерланды Nijmegen </name>
+<Point>
+<coordinates>5.83723,51.8126,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 19977">
+<name>1 | Россия Полевской </name>
+<Point>
+<coordinates>60.2446,56.4825,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 621">
+<name>1 | Россия Дзержинск </name>
+<Point>
+<coordinates>43.4352,56.2441,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="15 953">
+<name>1 | Молдова Бельцы </name>
+<Point>
+<coordinates>27.9184,47.754,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2018">
+<name>1 | Россия Первомайское </name>
+<Point>
+<coordinates>29.7381,60.36,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 6193">
+<name>1 | Казахстан Риддер </name>
+<Point>
+<coordinates>83.5063,50.3382,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1080296">
+<name>1 | Россия Анатольевка </name>
+<Point>
+<coordinates>55.3402,52.1468,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 6178">
+<name>1 | Россия Ялуторовск </name>
+<Point>
+<coordinates>66.301,56.6507,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 20541">
+<name>1 | Россия Нахабино </name>
+<Point>
+<coordinates>37.1708,55.8456,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 20558">
+<name>1 | Россия Дзержинский </name>
+<Point>
+<coordinates>37.8492,55.626,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 20559">
+<name>1 | Казахстан Новоишимский </name>
+<Point>
+<coordinates>66.8098,53.2059,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 20564">
+<name>1 | Россия Баргузин </name>
+<Point>
+<coordinates>109.64,53.6179,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 20588">
+<name>1 | Россия Оленегорск-8 </name>
+<Point>
+<coordinates>44.4551,48.6894,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 10833">
+<name>1 | Россия Лысьва </name>
+<Point>
+<coordinates>57.7889,58.1072,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 2064">
+<name>1 | Беларусь Слуцк </name>
+<Point>
+<coordinates>27.554,53.021,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2066">
+<name>1 | Россия Кропоткин </name>
+<Point>
+<coordinates>40.554,45.4296,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 20887">
+<name>1 | Россия Штормовое </name>
+<Point>
+<coordinates>33.0874,45.2662,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="144 20941">
+<name>1 | Норвегия Fredrikstad </name>
+<Point>
+<coordinates>10.9347,59.2205,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1083592">
+<name>1 | Россия Гражданский </name>
+<Point>
+<coordinates>40.1471,44.6876,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="65 21118">
+<name>1 | Германия Düsseldorf </name>
+<Point>
+<coordinates>6.77346,51.2277,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2117">
+<name>1 | Россия Краснокамск </name>
+<Point>
+<coordinates>55.7672,58.079,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2118">
+<name>1 | Россия Бронницы </name>
+<Point>
+<coordinates>38.2628,55.4195,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 21244">
+<name>1 | Россия Туймазы </name>
+<Point>
+<coordinates>53.6922,54.5985,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2130">
+<name>1 | Россия Вычегодский </name>
+<Point>
+<coordinates>46.9005,61.2433,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1083775">
+<name>1 | Россия Александровка </name>
+<Point>
+<coordinates>38.9933,46.7852,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2137">
+<name>1 | Россия Спасск-Рязанский </name>
+<Point>
+<coordinates>40.3805,54.4104,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 21403">
+<name>1 | Украина Глухов </name>
+<Point>
+<coordinates>33.9079,51.6709,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="97 21428">
+<name>1 | Китай Qingdao </name>
+<Point>
+<coordinates>120.383,36.0671,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 2149">
+<name>1 | Беларусь Молодечно </name>
+<Point>
+<coordinates>26.8489,54.3104,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1086">
+<name>1 | Россия Кондопога </name>
+<Point>
+<coordinates>34.2704,62.1966,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 21613">
+<name>1 | Россия Железнодорожный (Балашиха) </name>
+<Point>
+<coordinates>38.0095,55.7374,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2163">
+<name>1 | Россия Белореченск </name>
+<Point>
+<coordinates>39.8817,44.7592,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1088279">
+<name>1 | Россия Луна </name>
+<Point>
+<coordinates>32.4686,54.8433,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="39 6174">
+<name>1 | Болгария Varna </name>
+<Point>
+<coordinates>27.9147,43.2141,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 21713">
+<name>1 | Россия Усинск </name>
+<Point>
+<coordinates>57.5243,65.9992,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 21733">
+<name>1 | Украина Украинск </name>
+<Point>
+<coordinates>37.3625,48.0968,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="86 2182">
+<name>1 | Исландия Reykjavík </name>
+<Point>
+<coordinates>-21.8174,64.1265,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 21856">
+<name>1 | Россия Троицк </name>
+<Point>
+<coordinates>37.3047,55.4872,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 6111">
+<name>1 | Россия Балахна </name>
+<Point>
+<coordinates>43.5634,56.5017,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 2201">
+<name>1 | Украина Кропивницкий / Кировоград </name>
+<Point>
+<coordinates>32.2623,48.5079,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="41 2203883">
+<name>1 | Босния и Герцеговина Sarajevo </name>
+<Point>
+<coordinates>18.4131,43.8563,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="200 2204899">
+<name>1 | Турция İstanbul </name>
+<Point>
+<coordinates>28.9784,41.0082,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="30 2205992">
+<name>1 | Афганистан Kandahar </name>
+<Point>
+<coordinates>65.7372,31.6289,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="218 2210985">
+<name>1 | Швеция Stockholm </name>
+<Point>
+<coordinates>18.0686,59.3293,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 22147">
+<name>1 | Россия Актюбинский </name>
+<Point>
+<coordinates>52.8039,54.8114,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="139 22168">
+<name>1 | Нидерланды Amsterdam </name>
+<Point>
+<coordinates>4.89517,52.3702,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 22231">
+<name>1 | Украина Марганец </name>
+<Point>
+<coordinates>34.6105,47.6489,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 9528">
+<name>1 | Россия Себеж </name>
+<Point>
+<coordinates>28.4679,56.2889,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2227">
+<name>1 | Россия Шексна </name>
+<Point>
+<coordinates>38.5126,59.2255,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 22279">
+<name>1 | Украина Барановка </name>
+<Point>
+<coordinates>27.6688,50.2924,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 610">
+<name>1 | Беларусь Пинск </name>
+<Point>
+<coordinates>26.0635,52.1125,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="49 22426">
+<name>1 | Великобритания Belfast </name>
+<Point>
+<coordinates>-5.93012,54.5973,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 22437">
+<name>1 | Украина Краматорск </name>
+<Point>
+<coordinates>37.5844,48.739,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1091129">
+<name>1 | Россия Холм-Жирковский </name>
+<Point>
+<coordinates>33.4849,55.5169,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 2262">
+<name>1 | Беларусь Светлогорск </name>
+<Point>
+<coordinates>29.749,52.6267,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 6047">
+<name>1 | Россия Шилка </name>
+<Point>
+<coordinates>116.024,51.8693,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="122 2300809">
+<name>1 | Мальта Valletta </name>
+<Point>
+<coordinates>14.5146,35.8989,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 232">
+<name>1 | Россия Саяногорск </name>
+<Point>
+<coordinates>91.4165,53.0966,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1092323">
+<name>1 | Россия Курган </name>
+<Point>
+<coordinates>65.3388,55.4392,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 2359">
+<name>1 | Беларусь Волковыск </name>
+<Point>
+<coordinates>24.4422,53.1516,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2367">
+<name>1 | Россия Новоалтайск </name>
+<Point>
+<coordinates>83.9208,53.4416,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1094589">
+<name>1 | Россия Татарстан </name>
+<Point>
+<coordinates>50.7264,55.1802,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 6037">
+<name>1 | Россия Шумерля </name>
+<Point>
+<coordinates>46.3841,55.5059,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 240">
+<name>1 | Россия Оленегорск </name>
+<Point>
+<coordinates>33.2574,68.1425,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2417">
+<name>1 | Россия Людиново </name>
+<Point>
+<coordinates>34.4575,53.8639,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 243">
+<name>1 | Россия Нефтекамск </name>
+<Point>
+<coordinates>54.2867,56.1026,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 5999">
+<name>1 | Россия Иглино </name>
+<Point>
+<coordinates>56.3944,54.818,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2444">
+<name>1 | Россия Прохладный </name>
+<Point>
+<coordinates>44.0264,43.7546,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 952">
+<name>1 | Россия Сызрань </name>
+<Point>
+<coordinates>48.3979,53.1505,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 246">
+<name>1 | Россия Когалым </name>
+<Point>
+<coordinates>74.5447,62.2666,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 248">
+<name>1 | Россия Кировск </name>
+<Point>
+<coordinates>33.6724,67.6107,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2487">
+<name>1 | Россия Нарьян-Мар </name>
+<Point>
+<coordinates>53.1078,67.671,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 5962">
+<name>1 | Украина Канев </name>
+<Point>
+<coordinates>31.4697,49.751,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2508">
+<name>1 | Россия Сясьстрой </name>
+<Point>
+<coordinates>32.5714,60.1348,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2525">
+<name>1 | Россия Сасово </name>
+<Point>
+<coordinates>41.9194,54.3564,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2581">
+<name>1 | Россия Харовск </name>
+<Point>
+<coordinates>40.2196,59.9549,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="8 2583">
+<name>1 | Израиль Иерусалим </name>
+<Point>
+<coordinates>35.2137,31.7683,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 593">
+<name>1 | Россия Воскресенск </name>
+<Point>
+<coordinates>38.6815,55.3238,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 260">
+<name>1 | Россия Зеленогорск </name>
+<Point>
+<coordinates>94.6139,56.1104,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="17 924">
+<name>1 | Туркменистан Ашхабад </name>
+<Point>
+<coordinates>58.3261,37.9601,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 2642">
+<name>1 | Украина Черкассы </name>
+<Point>
+<coordinates>32.0598,49.4444,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 92">
+<name>1 | Россия Невинномысск </name>
+<Point>
+<coordinates>41.9505,44.638,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 270">
+<name>1 | Россия Подольск </name>
+<Point>
+<coordinates>37.5458,55.4312,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="49 2702">
+<name>1 | Великобритания Liverpool </name>
+<Point>
+<coordinates>-2.99157,53.4084,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2716">
+<name>1 | Россия Зима </name>
+<Point>
+<coordinates>102.042,53.9226,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="38 2722528">
+<name>1 | Бермуды Hamilton </name>
+<Point>
+<coordinates>-64.7859,32.2946,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="61 2722583">
+<name>1 | Гваделупа Basse-Terre </name>
+<Point>
+<coordinates>-61.6947,16.0341,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="10 273">
+<name>1 | Канада Toronto </name>
+<Point>
+<coordinates>-79.3832,43.6532,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 2738">
+<name>1 | Украина Бердичев </name>
+<Point>
+<coordinates>28.59,49.9107,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 59">
+<name>1 | Россия Йошкар-Ола </name>
+<Point>
+<coordinates>47.8839,56.6402,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2747">
+<name>1 | Россия Лабинск </name>
+<Point>
+<coordinates>40.7389,44.6323,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1102561">
+<name>1 | Россия Москва </name>
+<Point>
+<coordinates>37.6173,55.7558,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 589">
+<name>1 | Россия Печора </name>
+<Point>
+<coordinates>57.1904,65.1384,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 580">
+<name>1 | Россия Электросталь </name>
+<Point>
+<coordinates>38.4552,55.7836,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 58">
+<name>1 | Россия Ишим </name>
+<Point>
+<coordinates>69.4771,56.1146,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 5799">
+<name>1 | Украина Ахтырка </name>
+<Point>
+<coordinates>34.9006,50.3151,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 5722">
+<name>1 | Украина Новоград-Волынский </name>
+<Point>
+<coordinates>27.6364,50.586,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1013970">
+<name>1 | Россия Крым </name>
+<Point>
+<coordinates>39.5212,47.3043,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2852">
+<name>1 | Россия Баксан </name>
+<Point>
+<coordinates>43.5419,43.6855,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2861">
+<name>1 | Россия Мокшино </name>
+<Point>
+<coordinates>36.5093,56.5798,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1014">
+<name>1 | Россия Кашира </name>
+<Point>
+<coordinates>38.1862,54.8438,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 5689">
+<name>1 | Россия Узловая </name>
+<Point>
+<coordinates>38.1771,53.9823,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 294">
+<name>1 | Россия Мегион </name>
+<Point>
+<coordinates>76.0998,61.0374,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 5648">
+<name>1 | Украина Алчевск </name>
+<Point>
+<coordinates>38.8134,48.4713,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="17 2981">
+<name>1 | Туркменистан Дашогуз </name>
+<Point>
+<coordinates>59.9652,41.8369,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2987">
+<name>1 | Россия Чернышевский </name>
+<Point>
+<coordinates>112.49,63.025,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 30">
+<name>1 | Россия Благовещенск </name>
+<Point>
+<coordinates>127.54,50.2728,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 991">
+<name>1 | Россия Можайск </name>
+<Point>
+<coordinates>36.0246,55.5044,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3034">
+<name>1 | Россия Пласт </name>
+<Point>
+<coordinates>60.8108,54.3721,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3046">
+<name>1 | Россия Верхние Киги </name>
+<Point>
+<coordinates>58.5984,55.412,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3048">
+<name>1 | Россия Вязьма </name>
+<Point>
+<coordinates>34.2967,55.1929,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 311">
+<name>1 | Россия Шарыпово </name>
+<Point>
+<coordinates>89.2205,55.5223,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 562">
+<name>1 | Россия Пыть-Ях </name>
+<Point>
+<coordinates>72.8212,60.7274,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 3124">
+<name>1 | Украина Балаклея </name>
+<Point>
+<coordinates>36.8585,49.4644,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 552">
+<name>1 | Украина Луганск </name>
+<Point>
+<coordinates>39.3078,48.574,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3156">
+<name>1 | Россия Лесосибирск </name>
+<Point>
+<coordinates>92.496,58.2276,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 317">
+<name>1 | Россия Алексин </name>
+<Point>
+<coordinates>37.0013,54.5072,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 3170">
+<name>1 | Украина Ровно </name>
+<Point>
+<coordinates>26.2516,50.6199,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="223 3170759">
+<name>1 | Эритрея Dekemhāre </name>
+<Point>
+<coordinates>39.045,15.0713,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 5514">
+<name>1 | Украина Стрый </name>
+<Point>
+<coordinates>23.8431,49.2656,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 5512">
+<name>1 | Россия Асино </name>
+<Point>
+<coordinates>86.1623,56.9862,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="209 320">
+<name>1 | Франция Lyon </name>
+<Point>
+<coordinates>4.83566,45.764,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3214">
+<name>1 | Россия Адлер </name>
+<Point>
+<coordinates>39.9339,43.4343,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3249">
+<name>1 | Россия Волжск </name>
+<Point>
+<coordinates>48.3569,55.8723,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 326">
+<name>1 | Россия Кандалакша </name>
+<Point>
+<coordinates>32.423,67.1701,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3260">
+<name>1 | Россия Карталы </name>
+<Point>
+<coordinates>60.6374,53.0554,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 328">
+<name>1 | Россия Каменск-Шахтинский </name>
+<Point>
+<coordinates>40.2445,48.3103,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 5468">
+<name>1 | Украина Харцызск </name>
+<Point>
+<coordinates>38.1394,48.0432,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3319">
+<name>1 | Россия Шушенское </name>
+<Point>
+<coordinates>91.9335,53.3372,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 70">
+<name>2 | Россия Комсомольск-на-Амуре </name>
+<Point>
+<coordinates>136.966,50.567,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1015722">
+<name>2 | Россия Бабаево </name>
+<Point>
+<coordinates>35.9303,59.393,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 1032">
+<name>2 | Беларусь Полоцк </name>
+<Point>
+<coordinates>28.7991,55.4832,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1033">
+<name>2 | Россия Истра </name>
+<Point>
+<coordinates>36.8661,55.9231,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1035195">
+<name>2 | Россия Севастополь </name>
+<Point>
+<coordinates>35.1871,53.4555,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1054308">
+<name>2 | Россия Домодедово </name>
+<Point>
+<coordinates>37.7478,55.443,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1056850">
+<name>2 | Россия Селятино </name>
+<Point>
+<coordinates>36.9525,55.5184,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1061">
+<name>2 | Россия Белая Калитва </name>
+<Point>
+<coordinates>40.7854,48.1818,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1064">
+<name>2 | Украина Каменское / Днепродзержинск </name>
+<Point>
+<coordinates>34.6137,48.5231,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 1104">
+<name>2 | Казахстан Балхаш </name>
+<Point>
+<coordinates>74.3775,46.2161,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 11043">
+<name>2 | Россия Вейделевка </name>
+<Point>
+<coordinates>38.4539,50.1566,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 1107">
+<name>2 | Беларусь Бобруйск </name>
+<Point>
+<coordinates>29.2214,53.1446,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 113">
+<name>2 | Россия Петропавловск-Камчатский </name>
+<Point>
+<coordinates>158.678,53.0409,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1133">
+<name>2 | Россия Бердск </name>
+<Point>
+<coordinates>83.08,54.7751,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1135">
+<name>2 | Россия Асбест </name>
+<Point>
+<coordinates>61.4582,57.0021,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 11442">
+<name>2 | Россия Учалы </name>
+<Point>
+<coordinates>59.409,54.309,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1151">
+<name>2 | Россия Туапсе </name>
+<Point>
+<coordinates>39.0806,44.1065,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1156">
+<name>2 | Россия Черногорск </name>
+<Point>
+<coordinates>91.3229,53.8247,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1158">
+<name>2 | Украина Житомир </name>
+<Point>
+<coordinates>28.6587,50.2547,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="15 1223">
+<name>2 | Молдова Бендеры </name>
+<Point>
+<coordinates>29.462,46.8228,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1277">
+<name>2 | Россия Красноуфимск </name>
+<Point>
+<coordinates>57.7537,56.6153,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1311">
+<name>2 | Россия Клин </name>
+<Point>
+<coordinates>36.7304,56.3334,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1316">
+<name>2 | Россия Данков </name>
+<Point>
+<coordinates>39.1401,53.2474,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 132">
+<name>2 | Россия Соликамск </name>
+<Point>
+<coordinates>56.7558,59.672,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 13833">
+<name>2 | Беларусь Несвиж </name>
+<Point>
+<coordinates>26.6766,53.2226,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1386">
+<name>2 | Россия Сергиев Посад </name>
+<Point>
+<coordinates>38.1452,56.3242,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1433">
+<name>2 | Россия Красноперекопск </name>
+<Point>
+<coordinates>33.7951,45.9522,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1463">
+<name>2 | Россия Зеленоград </name>
+<Point>
+<coordinates>37.2022,55.9872,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="87 1516454">
+<name>2 | Испания Madrid </name>
+<Point>
+<coordinates>-3.70379,40.4168,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 1516502">
+<name>2 | Беларусь Житковичи </name>
+<Point>
+<coordinates>27.8503,52.2161,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1519">
+<name>2 | Россия Гатчина </name>
+<Point>
+<coordinates>30.1065,59.5625,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 166">
+<name>2 | Россия Элиста </name>
+<Point>
+<coordinates>44.2794,46.3155,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 167">
+<name>2 | Россия Южно-Сахалинск </name>
+<Point>
+<coordinates>142.735,46.9641,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 17">
+<name>2 | Россия Абакан </name>
+<Point>
+<coordinates>91.4293,53.7176,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1707">
+<name>2 | Россия Россошь </name>
+<Point>
+<coordinates>39.5784,50.1943,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="15 1710959">
+<name>2 | Молдова Кишинев </name>
+<Point>
+<coordinates>28.8638,47.0105,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="65 1711731">
+<name>2 | Германия Köln </name>
+<Point>
+<coordinates>6.96028,50.9375,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="65 1711829">
+<name>2 | Германия Dortmund </name>
+<Point>
+<coordinates>7.4653,51.5136,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1767">
+<name>2 | Россия Сибай </name>
+<Point>
+<coordinates>58.6681,52.7134,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 18">
+<name>2 | Россия Альметьевск </name>
+<Point>
+<coordinates>52.3173,54.8937,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="14 1803194">
+<name>2 | Эстония Narva (Нарва) </name>
+<Point>
+<coordinates>28.1791,59.3797,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 186">
+<name>2 | Россия Тихвин </name>
+<Point>
+<coordinates>33.541,59.6444,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 191">
+<name>2 | Россия Кингисепп </name>
+<Point>
+<coordinates>28.6043,59.376,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1930">
+<name>2 | Россия Канск </name>
+<Point>
+<coordinates>95.7198,56.2168,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="16 1937246">
+<name>2 | Таджикистан Душанбе </name>
+<Point>
+<coordinates>68.787,38.5598,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="209 1937764">
+<name>2 | Франция Paris </name>
+<Point>
+<coordinates>2.35222,48.8566,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="18 194">
+<name>2 | Узбекистан Ташкент </name>
+<Point>
+<coordinates>69.2401,41.2995,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 20">
+<name>2 | Россия Арзамас </name>
+<Point>
+<coordinates>43.8299,55.3965,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2040">
+<name>2 | Россия Чапаевск </name>
+<Point>
+<coordinates>49.7067,52.9697,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="9 20605">
+<name>2 | США New Orleans </name>
+<Point>
+<coordinates>-90.0715,29.9511,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 21">
+<name>2 | Россия Армавир </name>
+<Point>
+<coordinates>41.1111,44.9874,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 2131">
+<name>2 | Казахстан Атырау </name>
+<Point>
+<coordinates>51.9238,47.0945,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 21611">
+<name>2 | Россия Дубна </name>
+<Point>
+<coordinates>37.1669,56.732,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 21657">
+<name>2 | Казахстан Костанай </name>
+<Point>
+<coordinates>63.6354,53.2198,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2225">
+<name>2 | Россия Богородск </name>
+<Point>
+<coordinates>43.5174,56.1037,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 2256">
+<name>2 | Украина Горловка </name>
+<Point>
+<coordinates>38.0296,48.3071,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 2334">
+<name>2 | Украина Белая Церковь </name>
+<Point>
+<coordinates>30.1311,49.7968,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 2375">
+<name>2 | Украина Энергодар </name>
+<Point>
+<coordinates>34.6342,47.5015,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2451">
+<name>2 | Россия Новочебоксарск </name>
+<Point>
+<coordinates>47.5065,56.1036,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 264">
+<name>2 | Россия Салават </name>
+<Point>
+<coordinates>55.9259,53.386,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 27">
+<name>2 | Россия Бийск </name>
+<Point>
+<coordinates>85.1472,52.5073,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 276">
+<name>2 | Украина Кременчуг </name>
+<Point>
+<coordinates>33.41,49.0658,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2849">
+<name>2 | Россия Зеленоградск </name>
+<Point>
+<coordinates>20.4747,54.9562,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 2917">
+<name>2 | Украина Хмельницкий </name>
+<Point>
+<coordinates>26.9871,49.423,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3023">
+<name>2 | Россия Октябрьский </name>
+<Point>
+<coordinates>53.4895,54.4772,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 35">
+<name>2 | Россия Великий Новгород </name>
+<Point>
+<coordinates>31.2742,58.5256,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 354">
+<name>2 | Россия Анапа </name>
+<Point>
+<coordinates>37.3199,44.8857,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 40">
+<name>2 | Россия Волжский </name>
+<Point>
+<coordinates>44.7707,48.8176,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 403">
+<name>2 | Россия Ноябрьск </name>
+<Point>
+<coordinates>75.4478,63.1842,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 4513">
+<name>2 | Украина Никополь </name>
+<Point>
+<coordinates>34.3948,47.5675,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="21 4553191">
+<name>2 | Албания Durrës </name>
+<Point>
+<coordinates>19.4565,41.3246,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 468">
+<name>2 | Россия Прокопьевск </name>
+<Point>
+<coordinates>86.7592,53.8888,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 478">
+<name>2 | Россия Керчь </name>
+<Point>
+<coordinates>36.4683,45.3573,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 4936">
+<name>2 | Украина Южный </name>
+<Point>
+<coordinates>31.1001,46.624,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="9 5087477">
+<name>2 | США Calabasas </name>
+<Point>
+<coordinates>-118.661,34.1367,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 52">
+<name>2 | Россия Ессентуки </name>
+<Point>
+<coordinates>42.8575,44.0455,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 524">
+<name>2 | Россия Белорецк </name>
+<Point>
+<coordinates>58.4061,53.9674,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 548">
+<name>2 | Россия Кстово </name>
+<Point>
+<coordinates>44.174,56.1329,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 5574">
+<name>2 | Россия Кунгур </name>
+<Point>
+<coordinates>56.9917,57.4115,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 5835">
+<name>2 | Беларусь Речица </name>
+<Point>
+<coordinates>30.3924,52.3635,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 625">
+<name>2 | Россия Дмитров </name>
+<Point>
+<coordinates>37.5288,56.3428,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 68">
+<name>2 | Россия Ковров </name>
+<Point>
+<coordinates>41.3226,56.3568,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 69">
+<name>2 | Россия Коломна </name>
+<Point>
+<coordinates>38.7689,55.0938,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 715">
+<name>2 | Россия Салехард </name>
+<Point>
+<coordinates>66.6028,66.5501,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 7279">
+<name>2 | Казахстан Петропавловск </name>
+<Point>
+<coordinates>69.1506,54.8732,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 761">
+<name>2 | Украина Винница </name>
+<Point>
+<coordinates>28.4682,49.2331,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="6 762">
+<name>2 | Армения Ереван </name>
+<Point>
+<coordinates>44.4991,40.1792,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 79">
+<name>2 | Россия Луга </name>
+<Point>
+<coordinates>29.8506,58.7408,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 818">
+<name>2 | Украина Ялта </name>
+<Point>
+<coordinates>34.1663,44.4952,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 8590">
+<name>2 | Россия Донецк </name>
+<Point>
+<coordinates>39.9654,48.3322,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 910">
+<name>2 | Россия Егорьевск </name>
+<Point>
+<coordinates>39.0323,55.3851,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 9930">
+<name>2 | Россия Балаково </name>
+<Point>
+<coordinates>47.7807,52.0246,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1568">
+<name>3 | Украина Черновцы </name>
+<Point>
+<coordinates>25.9358,48.2921,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 90">
+<name>3 | Россия Нальчик </name>
+<Point>
+<coordinates>43.6045,43.495,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 124">
+<name>3 | Россия Саранск </name>
+<Point>
+<coordinates>45.1745,54.2,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1297">
+<name>3 | Россия Щёлково </name>
+<Point>
+<coordinates>38.0369,55.917,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 85">
+<name>3 | Россия Махачкала </name>
+<Point>
+<coordinates>47.5126,42.9666,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 138">
+<name>3 | Россия Сыктывкар </name>
+<Point>
+<coordinates>50.8339,61.6479,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 108">
+<name>3 | Россия Орск </name>
+<Point>
+<coordinates>58.5441,51.2145,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 818">
+<name>3 | Россия Ялта </name>
+<Point>
+<coordinates>34.1515,44.481,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 794">
+<name>3 | Россия Златоуст </name>
+<Point>
+<coordinates>59.6859,55.1559,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1469">
+<name>3 | Россия Энгельс </name>
+<Point>
+<coordinates>46.1137,51.4753,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="229 21686">
+<name>3 | Япония Ōsaka </name>
+<Point>
+<coordinates>135.502,34.6937,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 205">
+<name>3 | Казахстан Усть-Каменогорск </name>
+<Point>
+<coordinates>82.6017,49.9749,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="9 1017">
+<name>3 | США Chicago </name>
+<Point>
+<coordinates>-87.6298,41.8781,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1496">
+<name>3 | Россия Азнакаево </name>
+<Point>
+<coordinates>53.0719,54.8587,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="9 1515864">
+<name>3 | США Boston </name>
+<Point>
+<coordinates>-71.0589,42.3601,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 730">
+<name>3 | Казахстан Тараз </name>
+<Point>
+<coordinates>71.398,42.8984,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 98">
+<name>3 | Россия Новороссийск </name>
+<Point>
+<coordinates>37.762,44.7154,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 649">
+<name>3 | Беларусь Гродно </name>
+<Point>
+<coordinates>23.8131,53.6694,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="229 1914764">
+<name>3 | Япония Tokyo </name>
+<Point>
+<coordinates>139.692,35.6895,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="87 1901501">
+<name>3 | Испания Barcelona </name>
+<Point>
+<coordinates>2.1734,41.3851,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 156">
+<name>3 | Россия Чайковский </name>
+<Point>
+<coordinates>54.1277,56.7661,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 19">
+<name>3 | Россия Ангарск </name>
+<Point>
+<coordinates>103.917,52.5156,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 3700">
+<name>3 | Россия Волгодонск </name>
+<Point>
+<coordinates>42.1794,47.506,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 182">
+<name>3 | Россия Тобольск </name>
+<Point>
+<coordinates>68.2635,58.2,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 177">
+<name>3 | Россия Выборг </name>
+<Point>
+<coordinates>28.7572,60.714,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1723">
+<name>3 | Россия Наро-Фоминск </name>
+<Point>
+<coordinates>36.7249,55.3916,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="226 1712003">
+<name>3 | Южная Корея Seoul </name>
+<Point>
+<coordinates>126.978,37.5665,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 382">
+<name>3 | Россия Нефтеюганск </name>
+<Point>
+<coordinates>72.5816,61.0981,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 340">
+<name>3 | Россия Серпухов </name>
+<Point>
+<coordinates>37.423,54.918,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 3369">
+<name>3 | Украина Стаханов </name>
+<Point>
+<coordinates>38.6487,48.5604,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 5098">
+<name>3 | Россия Копейск </name>
+<Point>
+<coordinates>61.6458,55.134,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="65 458">
+<name>3 | Германия Berlin </name>
+<Point>
+<coordinates>13.405,52.52,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 467">
+<name>3 | Беларусь Могилёв </name>
+<Point>
+<coordinates>30.3314,53.9007,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 312">
+<name>3 | Россия Мытищи </name>
+<Point>
+<coordinates>37.7655,55.9198,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1100">
+<name>3 | Россия Воткинск </name>
+<Point>
+<coordinates>53.9769,57.0409,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 994">
+<name>3 | Россия Белово </name>
+<Point>
+<coordinates>86.2937,54.4103,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 706">
+<name>4 | Казахстан Уральск </name>
+<Point>
+<coordinates>51.3865,51.2278,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="12 1925340">
+<name>4 | Латвия Rīga </name>
+<Point>
+<coordinates>24.1052,56.9496,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 74">
+<name>4 | Россия Курган </name>
+<Point>
+<coordinates>65.3054,55.4649,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 5252">
+<name>4 | Россия Шебекино </name>
+<Point>
+<coordinates>36.8948,50.4119,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 96">
+<name>4 | Россия Нижний Тагил </name>
+<Point>
+<coordinates>59.9816,57.9215,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 538">
+<name>4 | Беларусь Барановичи </name>
+<Point>
+<coordinates>26.0092,53.1256,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 3521">
+<name>4 | Украина Макеевка </name>
+<Point>
+<coordinates>37.9667,48.046,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 101">
+<name>4 | Россия Новочеркасск </name>
+<Point>
+<coordinates>40.0727,47.4178,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 34">
+<name>4 | Россия Великие Луки </name>
+<Point>
+<coordinates>30.5315,56.3396,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 964">
+<name>4 | Россия Новомосковск </name>
+<Point>
+<coordinates>38.2963,54.0109,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="229 3837115">
+<name>4 | Япония Kyōto </name>
+<Point>
+<coordinates>135.768,35.0116,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 107">
+<name>4 | Россия Орехово-Зуево </name>
+<Point>
+<coordinates>38.9668,55.8034,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 55">
+<name>4 | Россия Иваново </name>
+<Point>
+<coordinates>40.9766,57.0051,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 859">
+<name>4 | Россия Королёв </name>
+<Point>
+<coordinates>37.8519,55.9317,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 444">
+<name>4 | Украина Чернигов </name>
+<Point>
+<coordinates>31.2894,51.4982,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 455">
+<name>4 | Украина Мариуполь </name>
+<Point>
+<coordinates>37.5434,47.0971,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 7159">
+<name>4 | Россия Миасс </name>
+<Point>
+<coordinates>60.1035,55.0507,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 1517767">
+<name>4 | Казахстан Актобе </name>
+<Point>
+<coordinates>57.167,50.2839,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 139">
+<name>4 | Россия Таганрог </name>
+<Point>
+<coordinates>38.8676,47.2416,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 94">
+<name>4 | Россия Нижнекамск </name>
+<Point>
+<coordinates>51.847,55.6132,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="215 1933924">
+<name>4 | Чехия Praha </name>
+<Point>
+<coordinates>14.4378,50.0755,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 112">
+<name>4 | Россия Петрозаводск </name>
+<Point>
+<coordinates>34.364,61.7782,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="9 378">
+<name>4 | США New York City </name>
+<Point>
+<coordinates>-74.0059,40.7128,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 38">
+<name>5 | Россия Владикавказ </name>
+<Point>
+<coordinates>44.666,43.0252,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 284">
+<name>5 | Казахстан Караганда </name>
+<Point>
+<coordinates>73.1094,49.8047,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="144 2805">
+<name>5 | Норвегия Oslo </name>
+<Point>
+<coordinates>10.7522,59.9139,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 24">
+<name>5 | Россия Балашиха </name>
+<Point>
+<coordinates>37.968,55.7982,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 185">
+<name>5 | Россия Севастополь </name>
+<Point>
+<coordinates>35.1871,53.4555,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 160">
+<name>5 | Россия Грозный </name>
+<Point>
+<coordinates>45.6815,43.3169,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 71">
+<name>5 | Россия Кострома </name>
+<Point>
+<coordinates>40.9699,57.7775,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 82">
+<name>5 | Россия Магнитогорск </name>
+<Point>
+<coordinates>59.0016,53.4129,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 135">
+<name>5 | Россия Стерлитамак </name>
+<Point>
+<coordinates>55.9439,53.6554,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 916">
+<name>5 | Украина Кривой Рог </name>
+<Point>
+<coordinates>33.3918,47.9105,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 114">
+<name>5 | Россия Псков </name>
+<Point>
+<coordinates>28.3345,57.8167,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 93">
+<name>5 | Россия Нижневартовск </name>
+<Point>
+<coordinates>76.5434,60.9431,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 377">
+<name>6 | Украина Николаев </name>
+<Point>
+<coordinates>31.9946,46.975,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 121">
+<name>6 | Россия Рыбинск </name>
+<Point>
+<coordinates>38.8117,58.0575,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 140">
+<name>6 | Россия Тамбов </name>
+<Point>
+<coordinates>41.4423,52.7236,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 39">
+<name>6 | Россия Владимир </name>
+<Point>
+<coordinates>40.4179,56.1446,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="160 1929447">
+<name>6 | Польша Katowice </name>
+<Point>
+<coordinates>19.0238,50.2649,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 168">
+<name>6 | Россия Якутск </name>
+<Point>
+<coordinates>129.675,62.0355,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 11">
+<name>6 | Россия Северодвинск </name>
+<Point>
+<coordinates>39.7956,64.5596,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 62">
+<name>6 | Россия Калуга </name>
+<Point>
+<coordinates>36.2851,54.5519,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1057">
+<name>6 | Украина Львов </name>
+<Point>
+<coordinates>24.0297,49.8397,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 392">
+<name>6 | Беларусь Гомель </name>
+<Point>
+<coordinates>30.9878,52.4412,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 788">
+<name>6 | Россия Ейск </name>
+<Point>
+<coordinates>38.2703,46.6826,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 427">
+<name>6 | Украина Херсон </name>
+<Point>
+<coordinates>32.6169,46.6354,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 1581">
+<name>6 | Украина Полтава </name>
+<Point>
+<coordinates>34.5514,49.5883,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="49 295">
+<name>6 | Великобритания London </name>
+<Point>
+<coordinates>-0.127758,51.5074,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 528">
+<name>6 | Украина Сумы </name>
+<Point>
+<coordinates>34.7981,50.9077,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="9 5331">
+<name>6 | США Los Angeles </name>
+<Point>
+<coordinates>-118.244,34.0522,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 33">
+<name>7 | Россия Брянск </name>
+<Point>
+<coordinates>34.4161,53.2635,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 244">
+<name>7 | Беларусь Витебск </name>
+<Point>
+<coordinates>30.2016,55.1848,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 281">
+<name>7 | Беларусь Брест </name>
+<Point>
+<coordinates>23.7341,52.0976,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 149">
+<name>7 | Россия Ульяновск </name>
+<Point>
+<coordinates>48.3838,54.3182,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 105">
+<name>7 | Россия Орёл </name>
+<Point>
+<coordinates>36.0625,52.9668,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 161">
+<name>7 | Россия Чита </name>
+<Point>
+<coordinates>113.471,52.0515,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 274">
+<name>7 | Россия Старый Оскол </name>
+<Point>
+<coordinates>37.838,51.2981,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 130">
+<name>7 | Россия Смоленск </name>
+<Point>
+<coordinates>32.0504,54.7903,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 26">
+<name>7 | Россия Белгород </name>
+<Point>
+<coordinates>36.5983,50.5997,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 133">
+<name>8 | Россия Сочи </name>
+<Point>
+<coordinates>39.7342,43.6028,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 23">
+<name>8 | Россия Астрахань </name>
+<Point>
+<coordinates>48.0599,46.3588,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 153">
+<name>8 | Россия Хабаровск </name>
+<Point>
+<coordinates>135.066,48.5027,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 109">
+<name>8 | Россия Пенза </name>
+<Point>
+<coordinates>45.0,53.2273,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="11 204">
+<name>8 | Кыргызстан Бишкек </name>
+<Point>
+<coordinates>74.5698,42.8746,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 627">
+<name>8 | Россия Симферополь </name>
+<Point>
+<coordinates>34.1024,44.9521,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 3193">
+<name>8 | Казахстан Шымкент </name>
+<Point>
+<coordinates>69.5901,42.3417,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 136">
+<name>8 | Россия Сургут </name>
+<Point>
+<coordinates>73.3845,61.256,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 78">
+<name>9 | Россия Липецк </name>
+<Point>
+<coordinates>39.5981,52.6122,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 75">
+<name>9 | Россия Курск </name>
+<Point>
+<coordinates>36.1562,51.7092,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 148">
+<name>9 | Россия Улан-Удэ </name>
+<Point>
+<coordinates>107.607,51.8239,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 41">
+<name>9 | Россия Вологда </name>
+<Point>
+<coordinates>39.8978,59.2181,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 146">
+<name>9 | Россия Тула </name>
+<Point>
+<coordinates>37.6185,54.2048,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 157">
+<name>10 | Россия Чебоксары </name>
+<Point>
+<coordinates>47.2628,56.1168,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 22">
+<name>10 | Россия Архангельск </name>
+<Point>
+<coordinates>40.5602,64.5472,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 37">
+<name>10 | Россия Владивосток </name>
+<Point>
+<coordinates>131.887,43.1198,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 628">
+<name>10 | Украина Запорожье </name>
+<Point>
+<coordinates>35.1396,47.8388,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 650">
+<name>10 | Украина Днепропетровск (Днепр) </name>
+<Point>
+<coordinates>35.0462,48.4647,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 14">
+<name>10 | Казахстан Астана </name>
+<Point>
+<coordinates>71.4704,51.1605,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 32">
+<name>10 | Россия Братск </name>
+<Point>
+<coordinates>101.604,56.1738,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 87">
+<name>11 | Россия Мурманск </name>
+<Point>
+<coordinates>33.0827,68.9585,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 134">
+<name>11 | Россия Ставрополь </name>
+<Point>
+<coordinates>41.9683,45.0455,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 25">
+<name>11 | Россия Барнаул </name>
+<Point>
+<coordinates>83.7698,53.3548,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 97">
+<name>11 | Россия Новокузнецк </name>
+<Point>
+<coordinates>87.1216,53.7596,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 141">
+<name>12 | Россия Тверь </name>
+<Point>
+<coordinates>35.9176,56.8587,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 88">
+<name>12 | Россия Набережные Челны </name>
+<Point>
+<coordinates>52.3721,55.7185,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 169">
+<name>13 | Россия Ярославль </name>
+<Point>
+<coordinates>39.8845,57.6261,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 66">
+<name>13 | Россия Киров </name>
+<Point>
+<coordinates>49.6668,58.6035,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 144">
+<name>13 | Россия Томск </name>
+<Point>
+<coordinates>84.9924,56.501,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 223">
+<name>14 | Украина Донецк </name>
+<Point>
+<coordinates>37.8028,48.0159,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 56">
+<name>15 | Россия Ижевск </name>
+<Point>
+<coordinates>53.2324,56.8619,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 64">
+<name>15 | Россия Кемерово </name>
+<Point>
+<coordinates>86.0623,55.345,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 10">
+<name>15 | Россия Волгоград </name>
+<Point>
+<coordinates>44.5133,48.708,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 42">
+<name>16 | Россия Воронеж </name>
+<Point>
+<coordinates>39.2089,51.6755,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 8">
+<name>17 | Россия Череповец </name>
+<Point>
+<coordinates>37.9092,59.1323,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 143">
+<name>17 | Россия Тольятти </name>
+<Point>
+<coordinates>49.4198,53.5086,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 106">
+<name>18 | Россия Оренбург </name>
+<Point>
+<coordinates>55.1005,51.7666,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 61">
+<name>19 | Россия Калининград </name>
+<Point>
+<coordinates>20.4522,54.7104,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 95">
+<name>19 | Россия Нижний Новгород </name>
+<Point>
+<coordinates>43.9361,56.2965,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 122">
+<name>20 | Россия Рязань </name>
+<Point>
+<coordinates>39.7126,54.6095,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 125">
+<name>21 | Россия Саратов </name>
+<Point>
+<coordinates>45.9608,51.5924,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 158">
+<name>21 | Россия Челябинск </name>
+<Point>
+<coordinates>61.4368,55.1644,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 57">
+<name>21 | Россия Иркутск </name>
+<Point>
+<coordinates>104.305,52.287,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 280">
+<name>22 | Украина Харьков </name>
+<Point>
+<coordinates>36.2304,49.9935,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 147">
+<name>23 | Россия Тюмень </name>
+<Point>
+<coordinates>65.525,57.1613,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 104">
+<name>23 | Россия Омск </name>
+<Point>
+<coordinates>73.3242,54.9885,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4 183">
+<name>23 | Казахстан Алматы </name>
+<Point>
+<coordinates>76.8512,43.222,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 292">
+<name>23 | Украина Одесса </name>
+<Point>
+<coordinates>30.7233,46.4825,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 60">
+<name>26 | Россия Казань </name>
+<Point>
+<coordinates>49.0661,55.8304,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 110">
+<name>28 | Россия Пермь </name>
+<Point>
+<coordinates>56.2668,58.0297,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 119">
+<name>33 | Россия Ростов-на-Дону </name>
+<Point>
+<coordinates>39.7015,47.2357,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2 314">
+<name>34 | Украина Киев </name>
+<Point>
+<coordinates>30.5234,50.4501,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 73">
+<name>36 | Россия Красноярск </name>
+<Point>
+<coordinates>92.8932,56.0153,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 123">
+<name>37 | Россия Самара </name>
+<Point>
+<coordinates>50.2212,53.2415,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 99">
+<name>37 | Россия Новосибирск </name>
+<Point>
+<coordinates>82.9357,55.0084,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 151">
+<name>40 | Россия Уфа </name>
+<Point>
+<coordinates>55.9721,54.7388,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 72">
+<name>42 | Россия Краснодар </name>
+<Point>
+<coordinates>38.9872,45.0393,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 49">
+<name>43 | Россия Екатеринбург </name>
+<Point>
+<coordinates>60.6057,56.8389,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3 282">
+<name>47 | Беларусь Минск </name>
+<Point>
+<coordinates>27.5615,53.9045,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 2">
+<name>191 | Россия Санкт-Петербург </name>
+<Point>
+<coordinates>30.3351,59.9343,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="1 1">
+<name>306 | Россия Москва </name>
+<Point>
+<coordinates>37.6173,55.7558,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
